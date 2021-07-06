@@ -6,4 +6,11 @@ Graduando em Tecnologia em Análise e Desenvolvimento de Sistemas pelo Instituto
 ## Trabalhos Feitos
 Atualmente Trabalho na empresa [Isasoft Softwares](https://isasoft.com.br) onde implementei o site da empresa, o HelpDesk da empresa e implemento atualmente a versão web da solução principal da empresa.
 
-Consumi as API do Mercado pago, Pagar.Me e IFood.
+Consumi as APIs:
+* Mercado pago;
+* Pagar.Me;
+* IFood;
+* Frenet;
+* Correios;
+* Login com Google;
+* Login com Facebook.
