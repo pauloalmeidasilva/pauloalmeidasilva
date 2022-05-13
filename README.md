@@ -42,6 +42,7 @@ Consumi as APIs:
 * Mercado pago;
 * Pagar.Me;
 * IFood;
+* Goomer;
 * Frenet;
 * Correios;
 * Login com Google;
