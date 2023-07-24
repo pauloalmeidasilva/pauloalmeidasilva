@@ -17,6 +17,8 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
 </div>
 
 <!--
@@ -36,7 +38,16 @@
 Graduando em Tecnologia em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Educação, Ciência e Tecnologia do Estado de São Paulo.
 
 ## Trabalhos Feitos
-Atualmente Trabalho na empresa [Isasoft Softwares](https://isasoft.com.br) onde implementei o site da empresa, o HelpDesk da empresa e implemento atualmente a versão web da solução principal da empresa.
+2019 - 2022 - [Isasoft Softwares](https://isasoft.com.br)
+Ocupei o cargo de Desenvolvedor Web e entre os principais trabalhos destaca-se:
+* HelpDesk da empresa;
+* Versão web da solução principal da empresa;
+* Cardápio digital para pedidos de delívery e retirada;
+* Criei a API interna para comunicação entre as soluções.
+
+2021 - Atual - Freelancer:
+* Trabalho com freelancer para empresas com problemas pontuais, dentre elas destaca-se a empresa [F2fs Inglês e Francês](https://f2fs.com.pt);
+  * Criei a plataforma de gerenciamento administrativa, pedagógica, LEAD, e comunicação com o aluno da empresa. 
 
 Consumi as APIs:
 * Mercado pago;
