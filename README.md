@@ -49,7 +49,7 @@ Ocupei o cargo de Desenvolvedor Web e entre os principais trabalhos destaca-se:
 * Trabalho com freelancer para empresas com problemas pontuais, dentre elas destaca-se a empresa [F2fs Inglês e Francês](https://f2fs.com.pt);
   * Criei a plataforma de gerenciamento administrativa, pedagógica, LEAD, e comunicação com o aluno da empresa. 
 
-Consumi as APIs:
+APIs consumidas:
 * Mercado pago;
 * Pagar.Me;
 * IFood;
